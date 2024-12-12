@@ -59,16 +59,7 @@ import votre_module
 
 votre_module.fonction()
 ```
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez suivre les étapes ci-dessous :
-
-1. Forkez le projet
-2. Créez une branche pour votre fonctionnalité : `git checkout -b fonctionnalite/nom`
-3. Faites vos modifications et committez-les : `git commit -m 'Ajout d'une nouvelle fonctionnalité'`
-4. Poussez votre branche : `git push origin fonctionnalite/nom`
-5. Ouvrez une Pull Request
+**
 
 ## Licence
 
